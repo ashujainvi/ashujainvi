@@ -1,8 +1,8 @@
 ## Hi, welcome to my GiyHub Profile
 
-- 💼 I’m a Sr. UI Developer at DBI
-- 📟 I like to design & build interfaces 
-- ⌨️ I spend most of my time writing TypeScript in Angular and Node.js
+- 💼 I’m a Sr. UI Developer on contract at Apple
+- 📟 I like to design & build modern user interfaces 
+- ⌨️ I spend most of my time writing TypeScript in Angular, React and Node.js
 - 🌱 I’m currently re-building my own portfolio [ashujainvi.com](https://www.ashujainvi.com) with vanilla JS animations
 
 
