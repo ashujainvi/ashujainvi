@@ -1,6 +1,6 @@
 ## Hi, welcome to my GiyHub Profile
 
-- 💼 I’m a Sr. UI Developer on contract at Apple
+- 💼 I’m a Front End Developer
 - 📟 I like to design & build modern user interfaces 
 - ⌨️ I spend most of my time writing TypeScript in Angular, React and Node.js
 - 🌱 I’m currently re-building my own portfolio [ashujainvi.com](https://www.ashujainvi.com) with vanilla JS animations
